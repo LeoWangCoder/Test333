@@ -9,5 +9,7 @@ total['2'] = total['total']
 total['total'] = total['total'].map(lambda x: x / 100)
 print(total)
 
-
+# for testing
+def testing():
+	pass
 
